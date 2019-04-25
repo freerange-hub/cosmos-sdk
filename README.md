@@ -20,13 +20,7 @@ It is being used to build `Gaia`, the first implementation of the FreeRange Hub.
 
 ## FreeRange Hub Testnet
 
-**WARNING**: Testnet for the FreeRange Hub is not live.  Instructions below to join are currently invalid
-
-To run a full-node for the testnet of the FreeRange Hub, first [install `gaia`](./docs/gaia/installation.md), then follow [the guide](./docs/gaia/join-mainnet.md).
-
-For status updates and genesis file, see the
-[launch repo](https://github.com/cosmos/launch).
-
+**WARNING**: Testnet for the FreeRange Hub is not live.  Instructions coming soon
 
 ## Quick Start
 
