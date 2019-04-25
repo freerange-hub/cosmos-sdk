@@ -1,11 +1,10 @@
 # Security
 
-As part of our [Coordinated Vulnerability Disclosure
-Policy](https://tendermint.com/security), we operate a bug bounty.
+As part of our Tendermint's [Coordinated Vulnerability Disclosure
+Policy](https://tendermint.com/security), they operate a bug bounty.
 See the policy for more details on submissions and rewards.
 
-The following is a list of examples of the kinds of bugs we're most interested in for
-the FreeRange SDK. See [here](https://github.com/tendermint/tendermint/blob/master/SECURITY.md) for vulnerabilities we are interested in for Tendermint, and lower-level libraries, e.g. IAVL.
+The following is a list of examples of the kinds of bugs they are most interested in. See [here](https://github.com/tendermint/tendermint/blob/master/SECURITY.md) for vulnerabilities we are interested in for Tendermint, and lower-level libraries, e.g. IAVL.
 
 ## Modules 
 - x/staking
