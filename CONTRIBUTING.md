@@ -1,7 +1,9 @@
 # Contributing
 
-**Thank you for considering making contributions to FreeRange-SDK fork of Cosmos-SDK and related
-repositories!  This document still needs to be updated to reflect the FreeRange fork**   
+Thank you for considering making contributions to FreeRange-SDK fork of Cosmos-SDK and related
+repositories!  
+
+**This document still needs to be updated to reflect the FreeRange fork**   
 
 
 Contributing to this repo can mean many things such as participated in
