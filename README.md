@@ -1,5 +1,5 @@
-# Cosmos SDK
-![banner](docs/cosmos-sdk-image.png)
+# FreeRange SDK
+
 
 [![version](https://img.shields.io/github/tag/cosmos/cosmos-sdk.svg)](https://github.com/cosmos/cosmos-sdk/releases/latest)
 [![CircleCI](https://circleci.com/gh/cosmos/cosmos-sdk/tree/master.svg?style=shield)](https://circleci.com/gh/cosmos/cosmos-sdk/tree/master)
@@ -12,17 +12,17 @@
 )](https://godoc.org/github.com/cosmos/cosmos-sdk)
 [![riot.im](https://img.shields.io/badge/riot.im-JOIN%20CHAT-green.svg)](https://riot.im/app/#/room/#cosmos-sdk:matrix.org)
 
-The Cosmos-SDK is a framework for building blockchain applications in Golang.
-It is being used to build `Gaia`, the first implementation of the Cosmos Hub.
+The FreeRange-SDK is a forked Cosmos-SDK framework for building blockchain applications in Golang.
+It is being used to build `Gaia`, the first implementation of the FreeRange Hub.
 
 **WARNING**: The SDK has mostly stabilized, but we are still making some
 breaking changes.
 
 **Note**: Requires [Go 1.12.1+](https://golang.org/dl/)
 
-## Cosmos Hub Mainnet
+## FreeRange Hub Testnet
 
-To run a full-node for the mainnet of the Cosmos Hub, first [install `gaia`](./docs/gaia/installation.md), then follow [the guide](./docs/gaia/join-mainnet.md).
+To run a full-node for the testnet of the FreeRange Hub, first [install `gaia`](./docs/gaia/installation.md), then follow [the guide](./docs/gaia/join-mainnet.md).
 
 For status updates and genesis file, see the
 [launch repo](https://github.com/cosmos/launch).
