@@ -12,7 +12,7 @@ CURL="$(which curl)"
 GOSUM="$(which gosum)"
 
 echo "Downloading golangci-lint ${VERSION} installer ..." >&2
-"${CURL}" -sfL "https://raw.githubusercontent.com/freerange-hub/golangci-lint/${VERSION}/install.sh" > "${installer}"
+"${CURL}" -sfL "https://raw.githubusercontent.com/freerange-hub/golangci-lint/master/install.sh" > "${installer}"
 
 echo "Checking hashsum ..." >&2
 [ "${HASHSUM}" = "$(${GOSUM} ${installer})" ]
